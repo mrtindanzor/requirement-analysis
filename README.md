@@ -87,7 +87,7 @@ Use Case Diagrams are visual representations in UML that show how users (actors)
 
 ![case diagram](alx-booking-uc.png)
 
-## Aceptance Criteria
+## Acceptance Criteria
 
 Acceptance criteria define the specific conditions a feature must meet to be considered complete and acceptable by stakeholders. They ensure clarity between developers, testers, and clients, prevent misunderstandings, and serve as a basis for validation and testing. Clearly defined criteria help maintain quality and confirm that user needs are fully met.
 
