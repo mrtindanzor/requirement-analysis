@@ -86,7 +86,6 @@ Use Case Diagrams are visual representations in UML that show how users (actors)
 - Serve as a foundation for writing detailed use case descriptions and requirements.
 
 ![case diagram](alx-booking-uc.png)
-![case diagram](alx-booking-uc.png)
 
 ## Aceptance Criteria
 
